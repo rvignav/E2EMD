@@ -1,0 +1,8 @@
+os-sys
+glob
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+tensorflow
