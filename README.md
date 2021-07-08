@@ -15,7 +15,7 @@
 
 ### Environment setup
 
-Our models were trained on a single CPU (GPUs/TPUs may decrease training time, but are not necessary). The code is implemented using Python 3, Keras, and TensorFlow v2. To install all required dependencies, run the following:
+Our models were trained on a single GPU (Tesla P4 GPU provided by Google Colab, 16 GB memory), but the code can be run as is on a CPU (with increased training times). The code is implemented using Python 3, Keras, and TensorFlow v2. To install all required dependencies, run the following:
 
     pip3 install -r requirements.txt
 
