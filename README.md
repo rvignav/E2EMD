@@ -1,7 +1,7 @@
 ## End-to-end Malaria Diagnosis and 3D Cell Rendering with Deep Learning
 <a href="https://orcid.org/0000-0002-6521-7898"><img height="15" src="https://github.com/rvignav/CT2Xray/blob/master/docs/orcid.png"></a>&nbsp;Vignav Ramesh
-
-[arXiv](https://arxiv.org/abs/2105.08147) / [Full Paper (PDF)](https://arxiv.org/pdf/2105.08147.pdf) / [Papers With Code](https://paperswithcode.com/paper/covid-19-lung-lesion-segmentation-using-a) / [Website](https://topdocmedicine.wixsite.com/topdoc)
+<!-- 
+[arXiv](https://arxiv.org/abs/2105.08147) / [Full Paper (PDF)](https://arxiv.org/pdf/2105.08147.pdf) / [Papers With Code](https://paperswithcode.com/paper/covid-19-lung-lesion-segmentation-using-a) / [Website](https://topdocmedicine.wixsite.com/topdoc) -->
 
 ![Header](https://github.com/rvignav/E2EMD/blob/main/docs/sshot.png)
 
@@ -26,7 +26,7 @@ All data is stored in this repository and can be accessed [here](https://github.
 ### Training
 
 Use the following Colab file to train the model: <a href="https://colab.research.google.com/github/rvignav/E2EMD/blob/main/VGG.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
+<!-- 
 ### Cite
 ```
 @misc{ramesh2021covid19,
@@ -37,4 +37,4 @@ Use the following Colab file to train the model: <a href="https://colab.research
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
-```
+``` -->
