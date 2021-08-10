@@ -1,7 +1,7 @@
 ## End-to-end Malaria Diagnosis and 3D Cell Rendering with Deep Learning
 <a href="https://orcid.org/0000-0002-6521-7898"><img height="15" src="https://github.com/rvignav/CT2Xray/blob/master/docs/orcid.png"></a>&nbsp;Vignav Ramesh
-<!-- 
-[arXiv](https://arxiv.org/abs/2105.08147) / [Full Paper (PDF)](https://arxiv.org/pdf/2105.08147.pdf) / [Papers With Code](https://paperswithcode.com/paper/covid-19-lung-lesion-segmentation-using-a) / [Website](https://topdocmedicine.wixsite.com/topdoc) -->
+
+[arXiv](https://arxiv.org/abs/2108.04220) / [Full Paper (PDF)](https://arxiv.org/pdf/2108.04220.pdf) / [Papers With Code](https://paperswithcode.com/paper/end-to-end-malaria-diagnosis-and-3d-cell) / Website ([Malaria Diagnosis Algorithm](https://topdoc.pythonanywhere.com/upload-malaria), [3D Cell Rendering](https://topdocmedicine.wixsite.com/topdoc/ar-visualization))
 
 ![Header](https://github.com/rvignav/E2EMD/blob/main/docs/sshot.png)
 
