@@ -26,15 +26,15 @@ All data is stored in this repository and can be accessed [here](https://github.
 ### Training
 
 Use the following Colab file to train the model: <a href="https://colab.research.google.com/github/rvignav/E2EMD/blob/main/VGG.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<!-- 
+
 ### Cite
 ```
-@misc{ramesh2021covid19,
-      title={COVID-19 Lung Lesion Segmentation Using a Sparsely Supervised Mask R-CNN on Chest X-rays Automatically Computed from Volumetric CTs}, 
-      author={Vignav Ramesh and Blaine Rister and Daniel L. Rubin},
-      year={2021},
-      eprint={2105.08147},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@misc{ramesh2021endtoend,
+  title={End-to-end Malaria Diagnosis and 3D Cell Rendering with Deep Learning},
+  author={Vignav Ramesh},
+  year={2021},
+  eprint={2108.04220},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
 }
-``` -->
+```
